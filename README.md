@@ -14,6 +14,9 @@ git clone https://github.com/Jyn-Tuyor/cli-todo-app.git
 ```
 2. Install dependencies
 ```bash
+pip install tabulate
+```
+```bash
 pip install -r requirements.txt 
 ```
 
@@ -31,3 +34,4 @@ python main.py done 1
 python main.py delete 1
 python main.py clear
 ```
+
